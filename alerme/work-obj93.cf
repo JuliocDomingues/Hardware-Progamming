@@ -1,0 +1,4 @@
+v 4
+file . "alarm.vhd" "a9ac8199ea42579e149fff1e66501e5e08411428" "20211002013547.847":
+  entity alarm at 1( 0) + 0 on 19;
+  architecture behavioral of alarm at 17( 249) + 0 on 20;
